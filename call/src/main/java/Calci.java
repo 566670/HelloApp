@@ -56,6 +56,7 @@ public void calcio()
 	System.out.println("sdfsd");
 	System.out.println("adasdada");
 	System.out.println("asdas");
+	System.out.println("asfa");
 }
 
 
