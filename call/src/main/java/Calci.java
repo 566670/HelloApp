@@ -42,7 +42,7 @@ public void mmm()
 }
 public void cc()
 {
-	
+	System.out.println("asdasd");
 }
 }
 
