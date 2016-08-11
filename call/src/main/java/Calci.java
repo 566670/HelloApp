@@ -56,7 +56,10 @@ public void calcio()
 	System.out.println("sdfsd");
 	System.out.println("adasdada");
 }
+public void m22()
+{
 
+}
 
 
 
