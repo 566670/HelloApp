@@ -36,11 +36,16 @@ public  void xx()
 }
 public void mmm()
 {
+	
 	System.out.println("asda");
 }
 public void cc()
 {
 	
+}
+public void calcio()
+{
+	System.out.println("zadas");
 }
 }
 
