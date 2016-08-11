@@ -11,5 +11,8 @@ public class Calci
 	{
 		return y-u;
 	}
-	
+	public void div(int c)
+	{
+		System.out.println("asda");
+	}
 }
