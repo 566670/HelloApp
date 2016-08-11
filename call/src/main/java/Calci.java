@@ -58,7 +58,10 @@ public void calcio()
 	System.out.println("asdas");
 	System.out.println("asfa");
 }
+public void m22()
+{
 
+}
 
 
 
