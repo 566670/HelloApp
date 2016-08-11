@@ -62,7 +62,11 @@ public void m22()
 {
 
 }
+
 int y=0;
+
+
+int x=100;
 
 
 }
