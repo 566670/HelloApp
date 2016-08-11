@@ -63,7 +63,7 @@ public void m22()
 
 }
 
-
+int x=100;
 
 }
 
