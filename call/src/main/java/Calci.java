@@ -15,4 +15,8 @@ public class Calci
 	{
 		System.out.println("asda");
 	}
+	public void mul(int fgd)
+	{
+		System.out.println("sdfs");
+	}
 }
