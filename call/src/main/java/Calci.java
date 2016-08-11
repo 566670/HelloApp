@@ -19,4 +19,8 @@ public class Calci
 	{
 		System.out.println("sdfs");
 	}
+public  void xx()
+{
+	System.out.println("dfgdf");
+}
 }
