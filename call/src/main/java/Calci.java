@@ -23,4 +23,9 @@ public  void xx()
 {
 	System.out.println("dfgdf");
 }
+
+public void zz()
+{
+	
+}
 }
