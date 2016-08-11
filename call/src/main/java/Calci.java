@@ -24,7 +24,12 @@ public class Calci
 	public void m1()
 	{
 		System.out.println("sdfsd");
+		
 	}
+	public void ccn()
+	{
+	}
+	
 public  void xx()
 {
 	System.out.println("dfgdf");
