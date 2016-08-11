@@ -7,6 +7,9 @@ public class Calci
 	{
 		return x+y;
 	}
-	
+	public int sub(int y,int u)
+	{
+		return y-u;
+	}
 	
 }
