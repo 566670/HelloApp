@@ -33,6 +33,10 @@ public void mmm()
 {
 	System.out.println("asda");
 }
+public void cc()
+{
+	
+}
 }
 
 
