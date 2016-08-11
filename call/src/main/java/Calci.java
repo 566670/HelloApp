@@ -20,4 +20,8 @@ public class Calci
 	{
 		System.out.println("sdfs");
 	}
+	public void m1()
+	{
+		System.out.println("sdfsd");
+	}
 }
